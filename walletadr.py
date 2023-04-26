@@ -2,7 +2,7 @@ import discord
 import asyncio
 import itemValue as i
 
-bot_token = '###'
+bot_token = '###' #token is not here for privacy reasons
 bot = discord.Client(intents=discord.Intents.default())
 
 async def status_task():
